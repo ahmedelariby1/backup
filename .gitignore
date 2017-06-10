@@ -2,3 +2,6 @@ for i in `cat /etc/userdomains | awk '{print $2}'|sort|uniq |grep -v "nobody"| s
 do
 ls -al /backup/cpbackup/daily/ | grep -i "$i"
 done
+asdasdasdasdasdas
+asdasdalskd;asdkasdk
+asldl;ka;sdlkas
